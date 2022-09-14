@@ -1,5 +1,5 @@
 <img src="images/Tic_Tac_Toe.png">
-<p align="center">A text-based Python version of the Tic Tac Toe game.</p>
+<p>A text-based Python version of the Tic Tac Toe game.</p>
 
 ### Requirements:
 
